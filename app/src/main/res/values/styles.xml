@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="testoRosso" >
+
+        <item name="android:text">25sp</item>
+        <item name="android:textColor">#fc3</item>
+
+    </style>
+
+
+</resources>
